@@ -1,5 +1,5 @@
 # Dark-Repulser Theme (Inspired by KIRITO's sword in SAO)
-##Made by Pranay Singh
+## Made by Pranay Singh
 
 🎨 This is a grub theme which is simple and contains most of the icons of different Operating Systems out there.  
 Includes:
@@ -19,7 +19,7 @@ Includes:
 2. Access the grub file:
    ```bash
    sudo nano etc/default/grub
-3. Change the Path:
+3. Change the Path to:
    ```bash
    GRUB_THEME="/my_grub_theme/Dark-repulser/theme.txt"
 4. Update the grub:
